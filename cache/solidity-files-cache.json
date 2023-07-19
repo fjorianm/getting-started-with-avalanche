@@ -1,0 +1,77 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Fjorian\\Desktop\\Avalanche Fuji\\getting-started-with-avalanche\\contracts\\HelloWorld.sol": {
+      "lastModificationDate": 1689778187269,
+      "contentHash": "a51d6f5858ad6cec71ed09da113ef37b",
+      "sourceName": "contracts/HelloWorld.sol",
+      "solcConfig": {
+        "version": "0.8.6",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.6"
+      ],
+      "artifacts": [
+        "HelloWorld"
+      ]
+    },
+    "C:\\Users\\Fjorian\\Desktop\\Avalanche Fuji\\getting-started-with-avalanche\\node_modules\\hardhat\\console.sol": {
+      "lastModificationDate": 1689777934309,
+      "contentHash": "e2884fb4e1ef4b4a7c7ac3a227880b0f",
+      "sourceName": "hardhat/console.sol",
+      "solcConfig": {
+        "version": "0.8.6",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">= 0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "console"
+      ]
+    }
+  }
+}
